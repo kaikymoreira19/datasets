@@ -14,5 +14,19 @@ Variáveis:
  ```py 
  import pandas as pd
  ```
-
  
+ ```rb
+ puts "Hello"
+ ```
+ 
+ ```c
+ int main{
+
+ }
+ ```
+
+[licença Apache 2.0](LICENCE.txt)
+ 
+
+
+
